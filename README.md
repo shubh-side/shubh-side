@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shubham!](https://www.linkedin.com/in/shubh-amchaudhary/) 
 
 You can find a passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / .NET / Java spring boot and some other cool libraries and frameworks here. 
 
